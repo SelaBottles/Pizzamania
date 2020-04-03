@@ -1,0 +1,29 @@
+.navbar-1 {
+    background-color: #a94442;
+    border-radius: 0px;
+    border: none;
+    margin-bottom: 0px;
+}
+.navbar-1 .navbar-nav>li>a {
+    color: #fff;
+}
+.navbar-1 .navbar-brand {
+    color: #fff;
+    font-weight: bold;
+}
+.car-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 550px;
+}
+
+.about-pizza {
+	margin-top: 3rem;
+	margin-bottom: 2rem;
+}
+.footer{ background-color: #a94442;
+		padding: 1.5rem 0;
+		color: white
+
+}
